@@ -1,3 +1,4 @@
+	
 
 .post{
     background-color: rgb(0, 0, 0);
@@ -145,3 +146,6 @@ body {
     
     }
   }
+  .instagram-wrap {
+    background: $lightgrey;
+}
